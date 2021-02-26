@@ -1,0 +1,3 @@
+= janet-xmrig
+
+It is a janet library for xmrig HTTP API.
